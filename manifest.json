@@ -1,0 +1,8 @@
+{
+  "display_name": "记忆助手",
+  "version": "1.0.0",
+  "js": "index.js",
+  "css": "",
+  "author": "sky",
+  "description": "每30轮自动总结对话并生成世界书条目"
+}
